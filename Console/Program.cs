@@ -86,6 +86,7 @@ public class Program
 	// Implement this method following a similar pattern as above
 	public static double Power(string x, string y)
 	{
+		//Forgot to push to different branch
 		double answ = double.Parse(x);
 		for (int i=int.Parse(y); i>1; i--)
 			{
